@@ -1,2 +1,2 @@
 # clock
-A sample clock with realtime data
+A sample clock with realtime data..
